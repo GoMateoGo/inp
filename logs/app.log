@@ -1,0 +1,7 @@
+{"level":"info","ts":"2025-11-25 23:51:40","caller":"inp/main.go:19","msg":"程序启动成功，监听端口: 8080"}
+{"level":"debug","ts":"2025-11-25 23:51:40","caller":"inp/main.go:22","msg":"正在处理用户: Mateo (ID: 10086)"}
+{"level":"error","ts":"2025-11-25 23:51:40","caller":"inp/main.go:26","msg":"数据库查询失败，用户: Mateo, 错误详情: connection timeout"}
+{"level":"info","ts":"2025-11-25 23:52:33","caller":"inp/main.go:19","msg":"程序启动成功，监听端口: 8080"}
+{"level":"warn","ts":"2025-11-25 23:52:33","caller":"inp/main.go:21","msg":"这里测试了一个警告:9999"}
+{"level":"debug","ts":"2025-11-25 23:52:33","caller":"inp/main.go:24","msg":"正在处理用户: Mateo (ID: 10086)"}
+{"level":"error","ts":"2025-11-25 23:52:33","caller":"inp/main.go:28","msg":"数据库查询失败，用户: Mateo, 错误详情: connection timeout"}
